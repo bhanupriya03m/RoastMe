@@ -1,0 +1,1 @@
+{"version":2,"languages":{"python-python3-poetry":{"specfileHash":"0c86dcb7c61885c0cdb36f2cbd760b71","lockfileHash":"afdd16afefd61828ad1ec65b18c6399b","guessedImports":["psycopg2-binary","telegram","python-dotenv","openai"],"guessedImportsHash":"1bb065593f428553c05f9e16c94e56d4"}}}
