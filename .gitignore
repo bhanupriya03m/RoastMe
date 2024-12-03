@@ -1,5 +1,0 @@
-.env
-*.env
-*.log
-.cache/
-.pythonlibs/
