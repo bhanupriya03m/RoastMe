@@ -15,7 +15,7 @@ DATABASE_URL = os.getenv("DATABASE_URL")  # PostgreSQL connection URL
 openai.api_key = OPENAI_API_KEY
 
 # Connect to PostgreSQL
-conn = psycopg2.connect(DATABASE_URL, sslmode='disable')
+conn = psycopg2.connect(DATABASE_URL, sslmode='require')
 
 
 cursor = conn.cursor()
